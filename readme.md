@@ -9,7 +9,7 @@ LICENSE: [MIT](license.md)
 
 1. [Что такое GIT?](./git.md)
 
-2. История создания GIT
+2. [История создания GIT](./history.md)
 
 3. Основные команды GIT
    
